@@ -1,2 +1,6 @@
 Splash screen: Feature which loads mainActivity 
 	http://www.androidhive.info/2013/07/how-to-implement-android-splash-screen-2/
+Implement share link on fb :
+	http://stackoverflow.com/questions/29554085/android-facebook-api-and-sharelinkcontent
+	https://developers.facebook.com/docs/reference/android/current/class/ShareLinkContent
+	
